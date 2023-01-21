@@ -40,14 +40,41 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-15",
+					"linecount" : 6,
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 1140.0, 412.0, 81.0, 102.0 ],
+					"presentation_linecount" : 6,
+					"text" : ";\rdecay 0.999;\rtone 1000;\rdelay 300;\rfeedback 0.6;\rmodulation 2;\r"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-14",
+					"linecount" : 6,
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 784.0, 540.0, 81.0, 102.0 ],
+					"presentation_linecount" : 6,
+					"text" : ";\rdecay 0.999;\rtone 1000;\rdelay 300;\rfeedback 0.6;\rmodulation 2;\r"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-9",
 					"linecount" : 6,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1104.0, 321.0, 81.0, 102.0 ],
-					"presentation_linecount" : 6,
+					"patching_rect" : [ 975.0, 540.0, 81.0, 102.0 ],
 					"text" : ";\rdecay 0.999;\rtone 1000;\rdelay 300;\rfeedback 0.6;\rmodulation 2;\r"
 				}
 
