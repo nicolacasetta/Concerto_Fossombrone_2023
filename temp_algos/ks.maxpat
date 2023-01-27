@@ -53,19 +53,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-9",
-					"linecount" : 6,
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 975.0, 540.0, 81.0, 102.0 ],
-					"text" : ";\rdecay 0.999;\rtone 1000;\rdelay 300;\rfeedback 0.6;\rmodulation 2;\r"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-1",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
